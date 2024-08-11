@@ -6,7 +6,7 @@ The Online Blood Bank and Donation Management System is a comprehensive platform
 
 ### About Us:
 
--- The "About Us" feature introduces users to our platform's mission, values, and services, helping to establish trust and credibility. It provides a concise overview of who we are and what we do, making it easy for users to understand our commitment to promoting blood donation. The content is structured to be both informative and engaging, encouraging users to become part of our life-saving community. This feature is crucial for building a strong connection with our audience and fostering long-term engagement.
+  The "About Us" feature introduces users to our platform's mission, values, and services, helping to establish trust and credibility. It provides a concise overview of who we are and what we do, making it easy for users to understand our commitment to promoting blood donation. The content is structured to be both informative and engaging, encouraging users to become part of our life-saving community. This feature is crucial for building a strong connection with our audience and fostering long-term engagement.
   
 ### Why Donate Blood:
  
